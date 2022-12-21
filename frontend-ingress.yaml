@@ -5,10 +5,10 @@ metadata:
 spec:
   tls:
   - hosts:
-      - frontend-lab3.anatolii
+      - frontend-lab3.Liu Chenxing
     secretName: lab3-tls
   rules:
-  - host: frontend-lab3.anatolii
+  - host: frontend-lab3.Liu Chenxing
     http:
       paths:
       - path: /

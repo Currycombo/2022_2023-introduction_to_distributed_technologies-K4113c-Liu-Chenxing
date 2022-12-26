@@ -14,7 +14,7 @@ minikube start
 
 <img width="628" alt="d34eb89d5159d1d93ff5dd37f77080d" src="https://user-images.githubusercontent.com/117369066/209006773-6ca3b4b9-b529-4953-bede-a4beb48b0a4d.png">
 
-Create a manifest.yaml to deploy pod 
+deploy pod 
 
 <img width="960" alt="2d844e39c49a43a24160a109bb3022f" src="https://user-images.githubusercontent.com/117369066/209009279-b7093d3f-6c79-43f6-a7f8-338ff84a44f9.png">
 

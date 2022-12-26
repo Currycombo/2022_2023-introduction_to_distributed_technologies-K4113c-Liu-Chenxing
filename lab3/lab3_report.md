@@ -32,3 +32,12 @@ enable ingress addon
 
 <img width="643" alt="cb23114ef4c4e98193b29a563e52ab1" src="https://user-images.githubusercontent.com/117369066/209572606-3b8762a7-6f08-43f2-88e7-0b9ab39259d1.png">
 
+apply ingress
+
+<img width="523" alt="4129ec398ab54dd2ba0df50d2d51965" src="https://user-images.githubusercontent.com/117369066/209573061-a25c7a0a-a403-4744-9db2-9f1261920517.png">
+
+<img width="669" alt="25998e19415549bd64c5d8527ff42c5" src="https://user-images.githubusercontent.com/117369066/209573072-cc55ba93-99a7-4581-82b3-6aa2a161f2af.png">
+
+then we can access to it
+
+<img width="697" alt="d5423946ef9dd52e5bc285ad726c89d" src="https://user-images.githubusercontent.com/117369066/209573439-d93336f8-5960-4f50-9a90-d82e2646c58a.png">

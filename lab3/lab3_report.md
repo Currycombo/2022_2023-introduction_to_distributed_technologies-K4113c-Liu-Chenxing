@@ -12,3 +12,9 @@ minikube start
 
 <img width="1280" alt="4b3e1b9e5f867f1dad08f21f0fe5a43" src="https://user-images.githubusercontent.com/117369066/209571416-98748d75-c92a-4376-9e0d-48ac642caf87.png">
 
+Set variables react_app_user_name and react_app_company_name to LIu Chenxing and ITMO
+
+frontend-configmap.yaml
+
+<img width="951" alt="0b83118b766c7380c1c709b0f63d881" src="https://user-images.githubusercontent.com/117369066/209571817-ab2fb907-4ac2-4c0a-a8b6-e71b301cde91.png">
+

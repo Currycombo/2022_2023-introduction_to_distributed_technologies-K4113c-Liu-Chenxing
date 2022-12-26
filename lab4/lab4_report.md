@@ -31,3 +31,7 @@ Create ippool with 2 labels in step 4: kubectl apply -f ip.yaml Create deploymen
 <img width="722" alt="93541aa31303aebd6de0e80a3d17504" src="https://user-images.githubusercontent.com/117369066/209580096-83935025-78a2-4e62-9a9a-5e4ca65b7cb8.png">
 
 <img width="719" alt="8d33add323a890dd3874ff02a596276" src="https://user-images.githubusercontent.com/117369066/209580095-28ac8ea3-498d-465c-b8ed-b2a2e872835c.png">
+
+resault:
+
+<img width="1280" alt="7c4db636cd07bf14901c59508f12176" src="https://user-images.githubusercontent.com/117369066/209580699-04c2e935-f3af-4c8e-ac94-96396ea5cfc1.png">

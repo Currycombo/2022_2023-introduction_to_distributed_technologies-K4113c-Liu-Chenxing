@@ -20,6 +20,10 @@ configmap
 
 <img width="347" alt="b185ccec20cc80aed0b7665f43b8ec8" src="https://user-images.githubusercontent.com/117369066/209572398-a330baa0-03b6-47e4-bf88-2773360e3103.png">
 
+replicaset
+
+<img width="1280" alt="6bd6b053298eecfddef5df3f110fa72" src="https://user-images.githubusercontent.com/117369066/209582724-f050e3b3-2bf7-4852-bd38-a5be2bf98b74.png">
+
 get rs
 
 <img width="379" alt="6e2c05a85d0633c1fa4f140e636e159" src="https://user-images.githubusercontent.com/117369066/209572494-b5820fd1-6cc5-4fcd-bf5e-51b5994b3d55.png">
@@ -34,8 +38,13 @@ enable ingress addon
 
 apply ingress
 
-<img width="523" alt="4129ec398ab54dd2ba0df50d2d51965" src="https://user-images.githubusercontent.com/117369066/209573061-a25c7a0a-a403-4744-9db2-9f1261920517.png">
+<img width="880" alt="d7570be175c21e3db155c8091a8c360" src="https://user-images.githubusercontent.com/117369066/209583600-1d07ff18-3a73-4e1b-8b09-563ffdc447d5.png">
 
-<img width="669" alt="25998e19415549bd64c5d8527ff42c5" src="https://user-images.githubusercontent.com/117369066/209573072-cc55ba93-99a7-4581-82b3-6aa2a161f2af.png">
+<img width="775" alt="d1c0ada6af30e67522f78dd44a86909" src="https://user-images.githubusercontent.com/117369066/209583612-b07be573-2b6d-4171-bbb0-cd64c90ba95a.png">
 
-minikube tunnel and we can access to website via localhost port 3000
+<img width="951" alt="9058d995a493265b9c7f4000da34ab3" src="https://user-images.githubusercontent.com/117369066/209584266-702b7449-4b0d-43a5-907b-d3a4407eb54f.png">
+
+
+minikube tunnel
+
+<img width="720" alt="8d71e3fa7ec4072d4e93feb810aba92" src="https://user-images.githubusercontent.com/117369066/209584297-758851b0-8234-4063-bea5-4d9e85b2f9fe.png">

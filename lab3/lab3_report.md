@@ -38,6 +38,6 @@ apply ingress
 
 <img width="669" alt="25998e19415549bd64c5d8527ff42c5" src="https://user-images.githubusercontent.com/117369066/209573072-cc55ba93-99a7-4581-82b3-6aa2a161f2af.png">
 
-Change host file,add 127.0.0.1 lab3000.com. Use minikube tunnel,and we can access to the webside:
+minikube tunnel and we get
 
 <img width="697" alt="d5423946ef9dd52e5bc285ad726c89d" src="https://user-images.githubusercontent.com/117369066/209573439-d93336f8-5960-4f50-9a90-d82e2646c58a.png">

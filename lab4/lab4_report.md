@@ -23,7 +23,11 @@ ippool
 <img width="951" alt="7d052ecaec7ffa87dbd32c0d3aa6b8f" src="https://user-images.githubusercontent.com/117369066/209576046-69a7776f-e8e8-4ea9-88b5-b180eebe41e0.png">
 
 
-Create ippool with 2 labels in step 4: kubectl apply -f ip.yaml Create deployment with 2 replicaset and env: kubectl apply -f replicaset.yaml Ceate service for deployment: kubectl apply -f svc.yaml
+Create ippool with 2 labels in step 4: kubectl apply -f ip.yaml Create deployment with 2 replicaset and env: kubectl apply -f replicaset.yaml Ceate service for deployment: kubectl apply -f service.yaml
 
-resault:
+<img width="720" alt="1ae268ebb5b1b13ae083ca9218f0d9c" src="https://user-images.githubusercontent.com/117369066/209580048-5fa68605-329c-4324-b9d3-db512675fafa.png">
 
+
+<img width="722" alt="93541aa31303aebd6de0e80a3d17504" src="https://user-images.githubusercontent.com/117369066/209580096-83935025-78a2-4e62-9a9a-5e4ca65b7cb8.png">
+
+<img width="719" alt="8d33add323a890dd3874ff02a596276" src="https://user-images.githubusercontent.com/117369066/209580095-28ac8ea3-498d-465c-b8ed-b2a2e872835c.png">
